@@ -15,7 +15,7 @@
     <a href="mailto:ragilhidayah1990@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 </p>
 
-<h1 align="center"> 💻Tech Stack </h1>
+## 💻Tech Stack
 
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
