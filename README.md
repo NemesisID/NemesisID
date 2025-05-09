@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />Welcome To My Github Profile <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> <h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />Welcome To My Github Profile <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> </h1>
 
 ## ✨About Me:
 🏫 I'm currently an Information Systems undergrad at UPN "Veteran" East Java.<br>
