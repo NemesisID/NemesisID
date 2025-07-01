@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./github-header-image.png" alt="Header">
-</div>
-
 ## ✨About Me:
 🏫 I'm currently an Information Systems undergrad at UPN "Veteran" East Java.<br>
 🧠 I'm currently exploring React and the Android ecosystem.<br>
