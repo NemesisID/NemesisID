@@ -28,11 +28,12 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,idea,notion,androidstudio,git,github">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" height="3">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api?username=NemesisID&theme=algolia" />
+</a>
 
 <div align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=NemesisID&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NemesisID&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  /><br> -->
+https://github.com/ZPINXD/Earthquake-Activity-in-Indonesia-2015-2025/blob/main/Earthquake%20Indonesia%20Analysis/Notebooks/Cleaning%20data%20gempa.ipynb
   <img src="https://raw.githubusercontent.com/NemesisID/NemesisID/output/snake.svg" alt="Snake animation"/>
 </div>
 
