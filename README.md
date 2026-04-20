@@ -29,11 +29,11 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api?username=NemesisID&theme=algolia" />
+  <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api?username=NemesisID&theme=shadow_blue" /><br/>
+  <img height=200 width=365 align="center" src="https://streak-stats.demolab.com/?user=NemesisID&theme=shadow_blue&hide_border=false" />
 </a>
 
 <div align="center">
-https://github.com/ZPINXD/Earthquake-Activity-in-Indonesia-2015-2025/blob/main/Earthquake%20Indonesia%20Analysis/Notebooks/Cleaning%20data%20gempa.ipynb
   <img src="https://raw.githubusercontent.com/NemesisID/NemesisID/output/snake.svg" alt="Snake animation"/>
 </div>
 
