@@ -33,9 +33,4 @@
   <img height=200 width=365 align="center" src="https://streak-stats.demolab.com/?user=NemesisID&theme=shadow_blue&hide_border=false" />
 </a>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NemesisID/NemesisID/output/snake.svg" alt="Snake animation"/>
-</div>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" height="3">
